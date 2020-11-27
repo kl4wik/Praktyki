@@ -1,6 +1,7 @@
 package cwiczenia1;
 
 public class Main {
+    // test
     public static void main(String[] args) {
         int ii = 30;
         long l = 20;
