@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ZadanieDomowe">
+  <component name="RunManager" selected="Application.ZadanieDomowe (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwiczenia2.Main" />
       <module name="Praktyki" />
@@ -39,8 +39,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwiczenia4.Main" />
+      <module name="Praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwiczenia1.Main" />
+      <module name="Praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadanieDomowe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwiczenia4.ZadanieDomowe" />
       <module name="Praktyki" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,6 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZadanieDomowe (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.ZadanieDomowe" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
