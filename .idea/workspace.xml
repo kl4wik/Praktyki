@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ZadanieDomowe (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwiczenia4.Main" />
       <module name="Praktyki" />
@@ -41,6 +41,13 @@
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwiczenia5.Main" />
+      <module name="Praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwiczenia6.Main" />
       <module name="Praktyki" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,41 +67,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZadanieDomowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwiczenia2.ZadanieDomowe" />
-      <module name="Praktyki" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ZadanieDomowe (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.ZadanieDomowe (1)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.ZadanieDomowe" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1899" height="286" key="GridCell.Tab.0.bottom" timestamp="1606918036232">
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1607088312854">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="286" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606918036232" />
-    <state width="1899" height="286" key="GridCell.Tab.0.center" timestamp="1606918036232">
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607088312854" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607087324054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="286" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606918036232" />
-    <state width="1899" height="286" key="GridCell.Tab.0.left" timestamp="1606918036232">
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607087324054" />
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom" timestamp="1607088125332">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="286" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606918036232" />
-    <state width="1899" height="286" key="GridCell.Tab.0.right" timestamp="1606918036232">
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607088125332" />
+    <state width="1899" height="286" key="GridCell.Tab.0.center" timestamp="1607088125332">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="286" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606918036232" />
+    <state width="1899" height="286" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607088125332" />
+    <state width="1899" height="286" key="GridCell.Tab.0.left" timestamp="1607088125332">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607088125332" />
+    <state width="1899" height="286" key="GridCell.Tab.0.right" timestamp="1607088125332">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607088125332" />
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1607086989452">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607086989452" />
+    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1607086989452">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607086989451" />
+    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1607086989451">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607086989451" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1607086989452">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607086989452" />
     <state x="525" y="191" key="SettingsEditor" timestamp="1606481109600">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -103,9 +127,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="542" y="145" key="new project wizard/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606340861485" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606481105150">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1607086217811">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606481105150" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607086217811" />
   </component>
 </project>
