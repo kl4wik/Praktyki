@@ -1,4 +1,4 @@
-package cwiczenia7.cwiczenia8.zadanie;
+package cwiczenia8.zadanie;
 
 import java.security.SecureRandom;
 
